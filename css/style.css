@@ -19,6 +19,8 @@ body {
   font-synthesis: none;
   -moz-font-feature-settings: 'kern';
   -moz-osx-font-smoothing: grayscale;
+
+  height: 100dvh;
 }
 
 /* variables */
@@ -39,7 +41,6 @@ body {
   grid-template-rows: 1em 1fr 1em;
 	
   width: 100vw;
-  height: 100dvh;
 
   overflow: hidden;
 }
