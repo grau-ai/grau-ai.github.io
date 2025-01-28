@@ -112,6 +112,8 @@ body {
   animation-timing-function: linear;
 
   pointer-events: none;
+
+  overflow: hidden;
   z-index: 3;
 }
 
@@ -163,6 +165,7 @@ body {
   position: relative;
   min-height: 1em;
 
+  overflow: hidden;
   z-index: 1;
 }
 
