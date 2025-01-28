@@ -50,8 +50,8 @@ body {
 #logo {
   display: grid;
 
-  grid-template-columns: minmax(auto, 300px);
-  grid-template-rows: minmax(auto, 200px);
+  grid-template-columns: minmax(auto, 490px);
+  grid-template-rows: minmax(auto, 363px);
 
   grid-column: 2 / 3;
   grid-row: 2 / 3;
