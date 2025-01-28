@@ -40,7 +40,7 @@ body {
 	
   width: 100vw;
   height: 100dvh;
-  max-height: -webkit-fill-available;
+  min-height: -webkit-fill-available;
 
   overflow: hidden;
 }
